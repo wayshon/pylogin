@@ -1,5 +1,5 @@
 Django==2.2.1
 pygame==1.9.6
 pytz==2019.1
-sqlparse==0.3.0
+sqlparse==0.4.4
 virtualenv==16.6.0
